@@ -2,7 +2,7 @@
 
 - # Welcome to My GitHub Portfolio
 
-![Profile Image]([https://via.placeholder.com/150](https://github.com/coachnaren/coachnaren/blob/main/Narendiranath.png?raw=true))
+![Profile Image](https://github.com/coachnaren/coachnaren/blob/main/Narendiranath.png?raw=true)
 
 ## About Me
 
