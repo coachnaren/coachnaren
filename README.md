@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - # Welcome to My GitHub Portfolio
 
-![Profile Image](https://via.placeholder.com/150)
+![Profile Image]([https://via.placeholder.com/150](https://github.com/coachnaren/coachnaren/blob/main/Narendiranath.png?raw=true))
 
 ## About Me
 
